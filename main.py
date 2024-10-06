@@ -87,7 +87,7 @@ elif sport_str == "basketball":
     elif position2_int == "pointguard":
         print(name_str, "is a point guard")
 
-    elif position2_int == "shooting guard":
+    elif position2_int == "shootingguard":
         print(name_str, "is a shooting guard")
 
     elif position2_int == "smallforward":
