@@ -85,16 +85,16 @@ elif sport_str == "basketball":
         print(name_str, "is a center")
 
     elif position2_int == "pointguard":
-        print(name_str, "is a pointguard")
+        print(name_str, "is a point guard")
 
-    elif position2_int == "shootingguard":
-        print(name_str, "is a shootingguard")
+    elif position2_int == "shooting guard":
+        print(name_str, "is a shooting guard")
 
     elif position2_int == "smallforward":
-        print(name_str, "is a smallforward")
+        print(name_str, "is a small forward")
 
     elif position2_int == "powerforward":
-        print(name_str, "is a powerforward")
+        print(name_str, "is a power forward")
 
     else:
         print("Error, Try again.", name_str)
